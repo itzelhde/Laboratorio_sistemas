@@ -1,0 +1,23 @@
+MOV AX,5
+ADD BX,AX
+SUB BX, 2
+MUL CX,Bx
+DIV CX,3
+rartatata
+sub BX,2
+DIV CX,0
+ADD OX,4
+
+MUL CX,DX
+no
+
+cebolla
+
+MOV AX,, 5
+
+MOV AX5
+MOV AX,  5
+
+INC AX
+
+DEC BX
